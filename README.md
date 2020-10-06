@@ -55,7 +55,7 @@ This assingment was pretty simple but I built it twice because I built one separ
 ## Fork
 
 ### Description
-This is the Fork we are going to use to hole the Wheel
+This is the Fork we are going to use to hole the Tire
 ### Evidence
 https://cvilleschools.onshape.com/documents/7a62ca804ca0644b1e5a7825/w/190a8fff59f3ce4f7d93e37b/e/7cfff0d4623b1917dd6c62d0
 ### Image
@@ -68,13 +68,13 @@ This was pretty simple it was just a repeat of what I already knew
 ## Tire
 
 ### Description
-
+The Tire is the thing that the wheel is holding all that you have to do to create it is create a trapiziod and then revolve it
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/555cd4de376a0d7f828d02ea/w/82bf178b9038fef030adc846/e/d14dec1b55d402e85a075851
 ### Image
 
 ### Reflection
-
+This was simple as well but I did have a bit of a hard time getting the trapiziod to be symmetric
 ---
 
 

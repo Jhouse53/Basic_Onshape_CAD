@@ -61,7 +61,7 @@ https://cvilleschools.onshape.com/documents/7a62ca804ca0644b1e5a7825/w/190a8fff5
 ### Image
 
 ### Reflection
-This was pretty simple I rushed through it pretty fast
+This was pretty simple it was just a repeat of what I already knew
 ---
 
 

@@ -94,10 +94,12 @@ This I had a harder time on because I messed up at the start and created my thin
 ## AxleCollarBearings
 
 ### Description
-
+This is the bearings and axles we are going to use when we put it together
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/3e0706ee380d8b25afa53f16/w/4c972a97ec5bd78947ddf145/e/53d21172063634b63db2e20b
+https://cvilleschools.onshape.com/documents/e953b4f661af1264a857c839/w/70995abf999f223ea7901aaa/e/18bd756c2262f914eeb80f02
+https://cvilleschools.onshape.com/documents/2ba014180a1f3c90aebacbf6/w/a63035aaffa6394772905706/e/a463d9c7d9140c93263c9bbc
 ### Image
 
 ### Reflection
-
+This was simple enough it didn't really use anything new exept the use feature.

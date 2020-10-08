@@ -81,13 +81,13 @@ This was simple as well but I did have a bit of a hard time getting the trapizio
 ## Wheel
 
 ### Description
-
+The wheel was The part of the tire to make it you made a weird shape with rectangles and then revolve it then you had to cut out some of it.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/e953b4f661af1264a857c839/w/70995abf999f223ea7901aaa/e/18bd756c2262f914eeb80f02
 ### Image
 
 ### Reflection
-
+This I had a harder time on because I messed up at the start and created my thing a bit to low so I had a hard time revolving it.
 ---
 
 

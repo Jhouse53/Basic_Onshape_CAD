@@ -103,3 +103,17 @@ https://cvilleschools.onshape.com/documents/2ba014180a1f3c90aebacbf6/w/a63035aaf
 
 ### Reflection
 This was simple enough it didn't really use anything new exept the use feature.
+---
+
+
+## Sub-Assembly
+
+### Description
+We are putting a lot of the pieces together
+### Evidence
+https://cvilleschools.onshape.com/documents/590f17b0fc0f26196d527960/w/7dd711a4404736d56ee850ff/e/ce8d3fe86a8a43e6b74b084f
+### Image
+
+### Reflection
+This I just followed the video and it worked out.
+---

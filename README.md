@@ -117,3 +117,16 @@ https://cvilleschools.onshape.com/documents/590f17b0fc0f26196d527960/w/7dd711a44
 ### Reflection
 This I just followed the video and it worked out.
 ---
+
+
+## Final Assembly
+
+### Description
+We finished it!
+### Evidence
+https://cvilleschools.onshape.com/documents/1fa9d7a4ae264e4409adc017/w/6345e036dba22a7c0d87deb6/e/bcc26647aae9b319ca261bbb
+### Image
+
+### Reflection
+This I just followed the video and it worked out.
+---

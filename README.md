@@ -60,6 +60,8 @@ This is the Fork we are going to use to hole the Tire
 https://cvilleschools.onshape.com/documents/7a62ca804ca0644b1e5a7825/w/190a8fff59f3ce4f7d93e37b/e/7cfff0d4623b1917dd6c62d0
 ### Image
 
+![image](https://user-images.githubusercontent.com/71349679/120706036-95092b80-c486-11eb-84e5-8a3f47440483.png)
+
 ### Reflection
 This was pretty simple it was just a repeat of what I already knew
 ---
@@ -85,6 +87,9 @@ The wheel was The part of the tire to make it you made a weird shape with rectan
 ### Evidence
 https://cvilleschools.onshape.com/documents/e953b4f661af1264a857c839/w/70995abf999f223ea7901aaa/e/18bd756c2262f914eeb80f02
 ### Image
+
+![image](https://user-images.githubusercontent.com/71349679/120705934-6e4af500-c486-11eb-8508-37d6325d8d1f.png)
+
 
 ### Reflection
 This I had a harder time on because I messed up at the start and created my thing a bit to low so I had a hard time revolving it.
@@ -126,6 +131,7 @@ We finished it!
 ### Evidence
 https://cvilleschools.onshape.com/documents/1fa9d7a4ae264e4409adc017/w/6345e036dba22a7c0d87deb6/e/bcc26647aae9b319ca261bbb
 ### Image
+![image](https://user-images.githubusercontent.com/71349679/120706082-a9e5bf00-c486-11eb-8e9f-c525c4b27d7a.png)
 
 ### Reflection
 This I just followed the video and it worked out.

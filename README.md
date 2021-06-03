@@ -47,6 +47,9 @@ This assingment made me build a adittional piece along side the Base
 https://cvilleschools.onshape.com/documents/81d624fd30b8db56a16f76df/w/5d33e9a56b7995bd925fbe15/e/d5135565380ceeb56ed8c5ba
 ### Image
 
+![image](https://user-images.githubusercontent.com/71349679/120706292-e6b1b600-c486-11eb-8553-816c928bb91f.png)
+
+
 ### Reflection
 This assingment was pretty simple but I built it twice because I built one separately and then built one with the Base
 ---
@@ -60,7 +63,8 @@ This is the Fork we are going to use to hole the Tire
 https://cvilleschools.onshape.com/documents/7a62ca804ca0644b1e5a7825/w/190a8fff59f3ce4f7d93e37b/e/7cfff0d4623b1917dd6c62d0
 ### Image
 
-![image](https://user-images.githubusercontent.com/71349679/120706036-95092b80-c486-11eb-84e5-8a3f47440483.png)
+![image](https://user-images.githubusercontent.com/71349679/120706245-d8639a00-c486-11eb-9e95-4a0d64f5df3e.png)
+
 
 ### Reflection
 This was pretty simple it was just a repeat of what I already knew
